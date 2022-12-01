@@ -5,7 +5,7 @@ has_children: True
 nav_order: 1
 ---
 
-#  Applications & Research; GIS Programming; Final Exam Review   
+#  GIS Programming; Applications & Research; Final Exam Review   
 
 This module will cover some applications and research in GIS; give a brief tutorial on using Python to do GIS, and give a review for the exam!
 
