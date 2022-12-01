@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-# Geocoding and Webmapping Walkthrough
+# Geocoding and Web Mapping Walk Through
 
 I'm going to give you a quick walk through of the geocoding notebook.  Your "Lab" for this week is just to follow along through this tutorial and answer the respective questions.
 
@@ -31,7 +31,7 @@ We're going to open a command terminal and use command line clone the Github wor
 Cloning tells Git (a file tracking software) to download a repository (collection of code, data, etc.) for this workshop.
 In the new terminal window that opens, paste this command and hit enter:
 
-    git clone https://github.com/June-Skeeter/Module6_GEOS270
+    git clone https://github.com/GEOS270/Module7
 
 A folder called Geocoding-Web-Mapping-with-Python should now be visible.  You can explore it using file viewer on the left, or you can use the command line (see video).
 
@@ -50,7 +50,7 @@ In the file viewer You will notice a folder with the same name as the repository
 
 ## Video Reference
 
-This video covers the above steps.  **Note** the vidoe is for a workshop I run.  In step 3, the URL and file names are different.  Everything else is the same.
+This video covers the above steps.  **Note** the video is for a workshop I run.  In step 3, the URL and file names are different.  Everything else is the same.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_lqzOLeSlo0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
