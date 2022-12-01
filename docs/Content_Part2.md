@@ -3,7 +3,7 @@ layout: default
 title: Applications and Research
 parent: Module 7
 # has_children: True
-nav_order: 1
+nav_order: 2
 ---
 
 # Applications and Research

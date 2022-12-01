@@ -1,17 +1,18 @@
 ---
 layout: default
 title: Exam Review
-parent: Lecture Contenttttt
+parent: Module 7
 # has_children: True
-nav_order: 5
+nav_order: 3
 ---
 
 # Final Exam Review
 
-<!-- This will be available Tuesday the 21st -->
+This will be available Tuesday Dec 6th
 
 **The review recoriding will not be avaialable on canvas during the exam period.**
 
+<!-- 
 
 ## Essays (30 pts x3)
 
@@ -111,3 +112,4 @@ Generally, 1-3 sentences will suffice.  Try not to write much more than a paragr
 * Write a positionality statement for your final project.  (Up to 10 pts)
 
 
+ -->
