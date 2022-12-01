@@ -1,0 +1,200 @@
+I"�)<h1 class="no_toc" id="ethics-in-gis">Ethics in GIS</h1>
+
+<p>GIS, more than many disciplines has immense potential to have an impact on peoples lives.</p>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#what-is-ethics" id="markdown-toc-what-is-ethics">What is Ethics?</a>    <ol>
+      <li><a href="#ethics-in-science" id="markdown-toc-ethics-in-science">Ethics in Science</a></li>
+      <li><a href="#data-privacy-and-security" id="markdown-toc-data-privacy-and-security">Data privacy and security</a></li>
+      <li><a href="#data-representation" id="markdown-toc-data-representation">Data representation</a></li>
+    </ol>
+  </li>
+  <li><a href="#who-has-access-to-gis" id="markdown-toc-who-has-access-to-gis">Who Has Access to GIS?</a></li>
+  <li><a href="#positionality" id="markdown-toc-positionality">Positionality</a></li>
+  <li><a href="#public-participation-in-gis" id="markdown-toc-public-participation-in-gis">Public Participation in GIS</a>    <ol>
+      <li><a href="#volunteer-geographic-information" id="markdown-toc-volunteer-geographic-information">Volunteer Geographic Information</a></li>
+      <li><a href="#citizen-science" id="markdown-toc-citizen-science">Citizen Science</a></li>
+      <li><a href="#participatory-gis" id="markdown-toc-participatory-gis">Participatory GIS</a></li>
+    </ol>
+  </li>
+</ol>
+
+</details>
+
+<h1 id="what-is-ethics">What is Ethics?</h1>
+
+<p>Ethics is a branch of philosophy that deals with the nature of right and wrong.  It is a theory or set of standards that inform moral practice.  Though the laws we have constructed as a society may be informed by morality, Ethics and legality are <strong>not</strong> synonymous.</p>
+
+<p><img src="content/images/Ethics.png" width="600" /></p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Legal but Unethical</th>
+      <th style="text-align: center">Ethical but Illegal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center"><img src="content/images/Police.png" /></td>
+      <td style="text-align: center"><img src="content/images/Protest.png" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="ethics-in-science">Ethics in Science</h2>
+
+<p>Research often involves handling the private, personal information about individuals and minority groups:</p>
+<ul>
+  <li>Potential participants must be able to trust that their information will be used in a safe and respected manner.</li>
+  <li>In some fields, ethics boards often review research proposals to ensure best practices are used.
+    <ul>
+      <li>How will the data be used?</li>
+      <li>Who will have access to data/results?</li>
+      <li>What identifying information will be used/released?</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 class="no_toc" id="ethics-in-gis-1">Ethics in GIS</h3>
+
+<p>GIS has the potential to be <strong>more</strong> intrusive in to people’s every day lives other sciences:</p>
+<ul>
+  <li>We can know where people are at any given time</li>
+  <li>We can guess at what they are doing reasonably well</li>
+  <li>We can know where people shop, approximately how much money they make, who they know, and to which organizations they belong</li>
+  <li>We can know if they belong to minority groups:
+    <ul>
+      <li>E.g., racial minorities, religious minorities, political groups, LGBTQI*</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 class="no_toc" id="the-power-of-a-line">The Power of a Line</h3>
+
+<p>What side of a border you live up on can have drastic impacts on outcomes.  Where you live determines:</p>
+
+<ul>
+  <li>What rights you have.</li>
+  <li>What schools you attend.</li>
+  <li>How much your vote matters (if you even get to vote).</li>
+  <li>How much you pay in taxes.</li>
+  <li>What services you have access too.</li>
+  <li>Where you can travel.</li>
+</ul>
+
+<hr />
+
+<h2 id="data-privacy-and-security">Data privacy and security</h2>
+
+<p>Point locations risk exposing personal information.  Many agencies have guidelines surrounding exposure of health information.  More detailed information gives more accurate representations and allows for better decision making.  But it also impacts privacy  Where is they line?  How specific is too specific?  The city of Toronto maps COVID cases at the <a href="https://www.toronto.ca/home/covid-19/covid-19-pandemic-data/covid-19-neighbourhood-maps-data/">neighborhood level</a>, in BC data is released at a much <a href="http://www.bccdc.ca/Health-Info-Site/PublishingImages/health-info/diseases-conditions/covid-19/data/covid19_lha_20211114_20211120.png">coarser resolution</a> and the interactive data portal gives <a href="https://experience.arcgis.com/experience/a6f23959a8b14bfa989e3cda29297ded">less information</a>.</p>
+
+<h2 id="data-representation">Data representation</h2>
+
+<p>All maps lie, but some lie more than others.  How we choose to display our data can have a big impact on how it is perceived.  Every cartographic choice you make can have ramifications.</p>
+
+<p><strong>Sometimes the choices are intentional</strong></p>
+
+<p><img src="https://github.com/June-Skeeter/Module5_GEOS270/raw/main/docs/content/images/gerrymander_nc.png" /></p>
+
+<p><strong>Sometimes they are careless oversights</strong></p>
+
+<p><img src="content/images/Projection.jpg" /></p>
+
+<p><strong>Sometimes the lack of context is the issue</strong></p>
+
+<p><img src="content/images/maps_lie.jpg" /></p>
+
+<h1 id="who-has-access-to-gis">Who Has Access to GIS?</h1>
+
+<p>Who has access to GIS?  ESRI products (e.g. ArcGIS Pro) have very expensive licensing fees.  Beyond just the cost of the software, hardware to run GIS is not always accessible, and GIS training takes time.  There are options to make GIS more accessible to the public, but regardless, GIS</p>
+
+<h2 class="no_toc" id="open-source-options">Open Source Options</h2>
+
+<p>There are open source alternatives that can provide some access to GIS:</p>
+
+<ul>
+  <li><a href="https://qgis.org/en/site/">QGIS</a> is an application with similar functionality to ArcGIS Pro.</li>
+  <li>Python, R, JavaScript etc. are open source programming languages that have many GIS packages.</li>
+  <li>Free help pages like <a href="https://gis.stackexchange.com/">stackexchange</a> and github doc’s pages (eg. <a href="https://github.com/qgis/QGIS">qgis</a>) can help with training, but they require a base level of knowledge first.</li>
+</ul>
+
+<h1 id="positionality">Positionality</h1>
+
+<p>It is important to reflect on your relation to your work.  In the social sciences, positionality is especially important, because a researches privileges, biases, and preconceptions can drastically impact the people and communities they are working with.  In some of the “hard” sciences, there are often a claims of total objectivity, but complete objectivity is impossible.  No one is completely objective, that must be understood and acknowledged regardless of the field.</p>
+
+<h2 class="no_toc" id="why-this-topic-why-now-why-me">Why this topic? Why now? Why me?</h2>
+
+<p>Some important questions to ask yourself.  You should disclose this information when pertinent.</p>
+
+<ul>
+  <li>
+    <p>Who am I and where do I come from?</p>
+  </li>
+  <li>
+    <p>What is my relationship to the community/field I am working in?</p>
+  </li>
+  <li>
+    <p>What are my motivations for this work?</p>
+    <ul>
+      <li>What biases may I have and how may my past experiences influence how I engage with this work?</li>
+    </ul>
+  </li>
+</ul>
+
+<hr />
+
+<h1 id="public-participation-in-gis">Public Participation in GIS</h1>
+
+<p>There are many ways the public can be involved in GIS; the can participate actively or passively.  Engagement is crucial in many ways.</p>
+
+<h2 id="volunteer-geographic-information">Volunteer Geographic Information</h2>
+
+<p>The collection, processing, assembly, and dissemination of geographic data provided voluntarily by individuals.  Is sometimes, part of participatory approaches to GIS; sometimes its just using freely provided information that people are unaware of.  This is equally likely to be used for commercial purposes as it is for participatory, educational, and other non-commercial uses: E.g. Trip Advisor, Flickr, Twitter, etc.  Usually some sort of “wisdom of the crowds” is used to validate data, or else data verification and validation is performed by the organizing group</p>
+
+<h2 id="citizen-science">Citizen Science</h2>
+
+<p>Allows interested volunteers and researchers to team up to address some scientific question.  Volunteers provide the “leg work” of data collection, data cleaning, and initial interpretation of field data.  Guided by scientific research experts.  Participation levels can range from simple data collection through to contributing to academic journal submission.</p>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="https://maps.cocorahs.org/" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="https://maps.cocorahs.org/" target="_blank">View in New Tab</a></p>
+
+<h2 id="participatory-gis">Participatory GIS</h2>
+
+<p>The primary goals of PGIS are the empowerment and inclusion of marginalized people.  These groups tend to have little or no voice in the public arena due to extremes of location, poverty, racism, sexism, anti-religious feelings, or political disempowerment.  Often begins through a process of community mapping, with many steps and a set of long-term goals for the community.</p>
+
+<ul>
+  <li>Have members of the community generate their own data and construct their own maps</li>
+  <li>Bring members together to share their maps</li>
+  <li>Combine their work into a single community map and open the map up to review by the broader public</li>
+  <li>These community efforts can then be coded into a GIS to systematize the community’s knowledge and allow for greater spatial analysis to occur</li>
+</ul>
+
+<h3 class="no_toc" id="inuit-land-use-and-occupancy-project">Inuit land use and occupancy project</h3>
+
+<p>Participatory/counter mapping to safeguard Inuit rights to Arctic lands and waters.  Inuit People became increasingly concerned about resource extraction projects.  Commissioned a study on land use and occupancy that was instrumental in the establishment of Nunavut.</p>
+
+<p><img src="content/images/ILUOP_1.png" /></p>
+
+<p>No references to published work or other secondary sources of information: 100 % Original Data collection from Inuit Sources</p>
+
+<p><img src="content/images/ILUOP_2.png" /></p>
+
+:ET

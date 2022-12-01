@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Applications and Research
-parent: Lecture Content
+parent: Module 7
 # has_children: True
-nav_order: 4
+nav_order: 1
 ---
 
 # Applications and Research

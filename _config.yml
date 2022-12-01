@@ -1,4 +1,4 @@
-title: Module 6
+title: Module 7
 remote_theme: pmarsceill/just-the-docs
 search_enabled: true
 github_repo_url: "https://geos270.github.io/Module6/"
@@ -10,7 +10,7 @@ aux_links:
   "Course Schedule":
     - "https://geos270.github.io/Syllabus/#course-schedule"
   "View on github":
-    - "https://github.com/GEOS270/Module6"
+    - "https://github.com/GEOS270/Module7"
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"

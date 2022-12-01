@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Geocoding and Web Mapping
-parent: Lab Application
+title: GIS With Python
+parent: Geocoding and Web Mapping
+grand_parent: Module 7
 nav_order: 1
 ---
 

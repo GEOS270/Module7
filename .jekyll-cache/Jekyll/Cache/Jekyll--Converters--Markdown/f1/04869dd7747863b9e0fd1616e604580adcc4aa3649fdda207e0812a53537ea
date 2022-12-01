@@ -1,0 +1,69 @@
+I"�<h1 class="no_toc" id="geocoding-and-web-mapping">Geocoding and Web Mapping</h1>
+
+<details open="">
+  <summary class="text-delta">
+    Table of contents
+  </summary>
+<ol id="markdown-toc">
+  <li><a href="#learning-objectives" id="markdown-toc-learning-objectives">Learning Objectives:</a></li>
+  <li><a href="#geocoding" id="markdown-toc-geocoding">Geocoding</a></li>
+  <li><a href="#web-mapping" id="markdown-toc-web-mapping">Web Mapping</a></li>
+  <li><a href="#using-python-for-gis" id="markdown-toc-using-python-for-gis">Using Python for GIS</a></li>
+</ol>
+
+</details>
+
+<h1 id="learning-objectives">Learning Objectives:</h1>
+
+<ul>
+  <li>Gain Familiarity with Geocoding</li>
+  <li>Make a Simple Web-Map</li>
+</ul>
+
+<h1 id="geocoding">Geocoding</h1>
+
+<p>The process of attributing coordinates (Latitude/Longitude) to descriptive locations (Street Address).  We can use a variety of web based services (google maps, ESRI, mapbox, open street map, etc.) to perform geocoding.  We’re using Mapbox today because it strikes a good balance between accessibility and accuracy.</p>
+
+<h2 class="no_toc" id="google-maps">Google Maps</h2>
+
+<p>Arguably the best geocoding service, but it costs money :/ <a href="https://developers.google.com/maps/documentation/geocoding/overview">5.00 USD per 1000 request</a>.</p>
+
+<h2 class="no_toc" id="arcgis-world-geocoder">ArcGIS World Geocoder</h2>
+
+<p>You can geocode in ArcGIS Pro.  You can find a simple tutorial <a href="https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/tutorial-geocode-a-table-of-addresses.htm">here</a> and more information <a href="https://pro.arcgis.com/en/pro-app/latest/help/data/geocoding/convert-a-table-to-locations-on-the-map.htm">here</a> if you need to geocode for your final proejct.  Feel free to give it a shot on your own time if you want.  The reason I am <strong>not</strong> fond of using ArcGIS Pro to geocode: ESRI geocoding services uses a <a href="https://www.esri.com/en-us/arcgis/products/credits/overview?rsource=%2Fsoftware%2Farcgis%2Farcgisonline%2Fcredits">credit</a> based system for geocoding because it is a “premium” service.  As a student, you get something like 1,000 credits, which is easy to go through quickly.  You can get more if you request them from Jose, but its inconvenient, and Jose only has a limited number to give out.  It makes learning/troubleshooting difficult.</p>
+
+<h2 class="no_toc" id="mapbox">Mapbox</h2>
+
+<p>A “freemium” service up to <a href="https://www.mapbox.com/pricing/#geocode">100,000 requests per month</a> and gives fairly reliable results.  This is what we will be using.  It requires you to create a free <a href="https://mapbox.com">Mapbox</a> account.  Once you have an account, you will be given an <a href="https://account.mapbox.com/access-tokens/">access token</a>.  Which lets you use the Mapbox’s services.  We are going to be using Mapbox’s Application Programming Interface(<a href="https://docs.mapbox.com/api/overview/">API</a>) which lets us programmatically access Mapbox tools and services. You can use these APIs to retrieve information about your account, upload and change resources, use core Mapbox tools, and etc.</p>
+
+<h1 id="web-mapping">Web Mapping</h1>
+
+<p>Web mapping takes cartography beyond static maps.  It allows us to create dynamic, interactive web maps that can be embedded in webpages!</p>
+
+<h2 class="no_toc" id="arcgis-online">ArcGIS Online</h2>
+
+<p>ESRI has a platform called <a href="https://www.arcgis.com/index.html">ArcGIS Online</a>.  If you’re interested in learning about it, my colleague Maya at the UBC Library Research Commons has created this <a href="https://ubc-library-rc.github.io/intro-AGOL/">workshop</a>.  You can look through this page if you’re interested in learning how to use it.</p>
+
+<h2 class="no_toc" id="leaflet">Leaflet</h2>
+
+<p><a href="https://leafletjs.com/">Leaflet</a> is an open-source (free) JavaScript library for mobile-friendly interactive maps. It works efficiently across all major desktop and mobile platforms and has a well-documented <a href="https://leafletjs.com/reference.html">API</a>.  We are going to use a Python package called <a href="http://python-visualization.github.io/folium/">follium</a> to “communicate” with Leaflet and make some simple web maps like this.</p>
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="../Python_Notebooks/MtPleasant_Trees.html" title="Processes" scrolling="no" frameborder="0" style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<p><a href="../Python_Notebooks/MtPleasant_Trees.html" target="_blank">View Map in New Tab</a></p>
+
+<h1 id="using-python-for-gis">Using Python for GIS</h1>
+
+<p>Its a great programming language, and consistently ranks among the most poplar in the world! But it is not the only language. Just as English, Cantonese, or Punjabi can all be used to write a paper; Python, Javascirpt, or R can all be used to make a map.  I like python because its very flexible, fairly easy to read / write, well suited for data analysis, has lots of packages for GIS, and it’s completely free!  You will not be expected to know any code or learn how to code. I just want to introduce you all to some the possibilities.</p>
+
+:ET

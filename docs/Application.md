@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Lab Application
+title: Geocoding and Web Mapping
+parent: Module 7
 has_children: True
-nav_order: 3
+nav_order: 2
 ---
 
 # Geocoding and Web Mapping
@@ -21,6 +22,7 @@ nav_order: 3
 
 * Gain Familiarity with Geocoding
 * Make a Simple Web-Map 
+* Earn Extra Credit!
 
 # Geocoding
 
