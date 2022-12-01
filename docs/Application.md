@@ -3,7 +3,7 @@ layout: default
 title: Geocoding and Web Mapping
 parent: Module 7
 has_children: True
-nav_order: 2
+nav_order: 1
 ---
 
 # Geocoding and Web Mapping
