@@ -140,8 +140,8 @@ I value your feedback!  Please if you haven't done so already! fill them out so 
 
 ## About Evaluations
 
-Teaching evaluations are anonymous and not released to professors until after the final exam.  
+Teaching evaluations are completely anonymous and they not released to professors until after the final exam.  If you're curious what they look like on the professors' end, I've posted my previous evaluations to the [syllabus](https://geos270.github.io/Syllabus/#your-instructor). 
 
-You can follow [this link](https://go.blueja.io/JO0ANrkNjEyxWfjKVFKr1A) or scan the QR code below to go to th
+You can follow [this link](https://go.blueja.io/JO0ANrkNjEyxWfjKVFKr1A) or scan the QR code below to go to the evaluations portal.
 
 <img src='content/images/QR.png'>
