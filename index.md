@@ -19,16 +19,4 @@ Projects are due **Dec 9th**.  They will be accepted up to 7 days late **however
 
 ## Extended Office Hours
 
-If you need extra help with anything, I will be in my office from 10:30-4:30 **Dec 2nd, 5th, 8th, and 9th**.  Plus regular office hours Tuesday next week.
-
-## Teaching Evaluations!
-
-I value your feedback - please fill them out so I can think about how to improve my teaching going forward!
-
-* What worked for you & what didn't?
-* How was the pace & format?
-	* Anything I should spend more time on?
-	* Did you find any modules particularly difficult?
-
-* They also help my future employment prospects :)
-
+If you need extra help with anything, I will be in my office from 3-5 **Dec 6th, 7th, & 8th** plus regular ofice hours and 12-5 **Dec 9th**  
