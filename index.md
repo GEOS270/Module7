@@ -19,4 +19,4 @@ Projects are due **Dec 9th**.  They will be accepted up to 7 days late **however
 
 ## Extended Office Hours
 
-If you need extra help with anything, I will be in my office from 3-5 **Dec 6th, 7th, & 8th** plus regular ofice hours and 12-5 **Dec 9th**  
+If you need extra help with anything, I will be in my office from 3-5 **Dec 6th & 7th** plus regular ofice hours and 11:30-4:30 **Dec 8th & 9th**  
