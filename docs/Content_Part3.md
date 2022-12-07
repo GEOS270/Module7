@@ -87,8 +87,9 @@ The processes you'll want to be familiar with were covered in [Module 5](https:/
 |----------|--------------------|---------------------|-------------|
 |July NDVI |Raster|WGS 1984 | NDVI |
 |January NDVI|Raster|WGS 1984 | NDVI |
+|Digital Elevation Model |Raster|WGS 1984 | Elevation (m) |
 |BC Land Tenure |Vector (Polygon) |BC Albers | First Nation/Crown/Private/|
-|July Temperature Data |Text (.csv)|WGS 1984 | Latitude/Longitude, Name, Temperature |
+|BC Climate Data |Text (.csv)|WGS 1984 | Latitude/Longitude, Name, Monthly Mean Temperature, Monthly Total Rainfall |
 
 **Suggested Steps**:
 
