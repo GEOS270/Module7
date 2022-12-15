@@ -10,6 +10,7 @@ nav_order: 3
 
 **The review recording will not be available on canvas during the exam period.**
 
+<!-- 
 The final exam will be asynchronous on canvas.  You will have a 48 Hour Window to Complete (0:00 December 15th to 23:59 December 16th).  *unless an accommodation has already been discussed*
 
 * One Attempt - five hours
@@ -145,4 +146,4 @@ Teaching evaluations are completely anonymous and they not released to professor
 
 You can follow [this link](https://go.blueja.io/JO0ANrkNjEyxWfjKVFKr1A) or scan the QR code below to go to the evaluations portal.
 
-<img src='content/images/QR.png'>
+<img src='content/images/QR.png'> -->
