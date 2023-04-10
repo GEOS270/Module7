@@ -8,7 +8,7 @@ heading_anchors: true
 
 aux_links:
   "Course Schedule":
-    - "https://geos270.github.io/Syllabus/Overview.md/#course-schedule"
+    - "https://geos270.github.io/Syllabus/docs/Overview.html#course-schedule"
   "View on github":
     - "https://github.com/GEOS270/Module7"
 
