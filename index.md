@@ -13,10 +13,7 @@ This module will cover some applications and research in GIS; give a brief tutor
 
 All proposal submissions submitted thus far have been marked and relevant feedback has been provided.
 
-Projects are due **Dec 9th**.  They will be accepted up to 7 days late **however**, the extra time will be considered when marking.  Later submissions will be marked more harshly.
+Projects are due **April 14th**.  They will be accepted up to 7 days late **however**, there will be a late penalty, because of the deadline for turning around end of semester grades. The late penalty will be 10 pts/day for the first two days, and 25 pts/day for the next five days.
 
 **A note on participation**:  it is up to group members to determine the allocation of the work for the project.  However, if there are severe discrepancies in participation, I can and will adjust individual marks accordingly.  If there are serious participation issues, please reach out to me after submitting the project.
 
-## Extended Office Hours
-
-If you need extra help with anything, I will be in my office from 3-5 **Dec 6th & 7th** plus regular ofice hours and 11:30-4:30 **Dec 8th & 9th**  
