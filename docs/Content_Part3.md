@@ -8,37 +8,61 @@ nav_order: 3
 
 # Final Exam Review
 
-**The review recording will not be available on canvas during the exam period.**
-
-<!-- 
-The final exam will be asynchronous on canvas.  You will have a 48 Hour Window to Complete (0:00 December 15th to 23:59 December 16th).  *unless an accommodation has already been discussed*
+The final exam will be asynchronous on canvas.  You will have a 48 Hour Window to Complete (0:00 April 24th to 23:59 April 25th).  
 
 * One Attempt - five hours
     * Not intended to take five hours, I just don’t want you to feel rushed.
   * If you have an accommodation for extra time, please email me a reminder to before the exam to ensure I've set it for your exam.
 
+## Format
+
 * The exam is open book - you can reference any course material or outside sources you want
   * Be weary of outside materials - they may not be correct ...
   * **DO NOT** copy/paste answers.  Answers must be in your own words.  Plagiarism will be taken seriously and could result in a zero.
 
+### What is Plagiarism?
 
-## Essays (30 pts x3)
+"Plagiarism is presenting work or ideas from another source as your own, with or without consent of the original author, by incorporating it into your work without full acknowledgement." - Oxford English Dictionary
 
-* No definitive word count/limit.  Responses can be brief, but should be thorough.  Use full sentences and answer all parts of the question.
-  * Give examples!
-  * Sketches/Illustrations can be incorporated (*not required/expected*)
-  * Type them up and submit as .pdf
-    * **Make Sure it's a .pdf!**
-    * Formats like .pages - are not readable across platforms
-  * Randomly assigned from a bank!
+How to avoid plagiarizing on an open book exam?: **Put answers in your own words.**
+* Its perfectly okay to reference course material and other outside resources.  However, the ideas presented must reflect your own understanding of the information presented.
 
-* You can expect:
-  * 1 essay on Spatial Coordinate Systems [Module 2](https://geos270.github.io/Module2/)
-  * 1 essay on Data Types and Spatial Data Models [Module 3](https://geos270.github.io/Module3/) & [Module 4](https://geos270.github.io/Module4/)
-  * 1 essay Uncertainty or Ethics [Module 6](https://geos270.github.io/Module6/)
+#### ChatGPT?
 
+Its an amazingly powerful tool!  That said ... its a C student at best.  Don't copy/paste exam answers from ChatGPT - you'd be surprised how often it will generate incorrect information.  
 
-## Flowchart (50 pts x1)
+* You **can** use Chat GPT as a study tool.
+  * Unsure what the difference between the a Geographic Coordinate System and a Map Projection? 
+    - Ask Chat GPT and see what it says.
+    - Cross reference its answer with **other sources** (e.g. lecture material) to solidify your understanding **and** make sure it didn't give you any misinformation.
+
+* You **cannot** use Chat GPT to answer exam questions for you.  That is plagiarism.
+
+### Top Hat Question
+
+Which of the following are examples of plagiarism?
+
+* Typing exam questions into ChatGPT and using its response as your answer.
+* Paraphrasing a full paragraph from a research paper or other article without citation.
+* Using Chat GPT as a study tool to help prepare for an exam.
+* Synthesizing information from multiple online sources to answer an essay question.
+* Copying full sentences from lecture slides and putting them in an essay.
+
+## What's on the Exam?
+
+There will be four parts to your exam.  Questions will be assigned randomly from a question bank.  No two students will have the same exam.  The following point breakdown is approximate and may change slightly:
+
+* A Flowchart (50 pts)
+* Essays (60 pts)
+* Short Answer (50 pts)
+* Automated Questions (90 pts)
+  * Fill in the Blank
+  * Multiple Choice
+  * Matching
+  * True False
+  * Numeric Answer
+
+### Flowchart 
 
 Tests your ability to work through a problem using GIS methods.  Create a flow chart outlining a GIS analysis in response to a prompt.  I suggest you use [diagrams.net](https://app.diagrams.net/) because its easy to create clean flowcharts quickly, but you can do it however you'd like.  You might want to practice making a flowchart before exam time.
 
@@ -46,7 +70,7 @@ The processes you'll want to be familiar with were covered in [Module 5](https:/
 * When exporting to submit, make sure to export/submit a .png, .jpg, or .pdf
 * Think about design principals - aesthetics will be a small portion of the flowchart grade.
 
-### Practice Question 1
+#### Practice Question 1
 
 **Prompt**: Based on your analysis from the Tsunami Risk Assessment, the city of Port Alberni has been given funding build a new evacuation shelter.  You have been contracted by the city and tasked with finding a suitable location for the shelter.
 
@@ -71,7 +95,7 @@ The processes you'll want to be familiar with were covered in [Module 5](https:/
 <img src='content/images/Flowchart_Example.png'>
 
 
-### Practice Question 2
+#### Practice Question 2
 
 **Prompt**: June is looking for the best places in BC to pick salmonberries and they have asked you for help!  
 
@@ -101,49 +125,28 @@ The processes you'll want to be familiar with were covered in [Module 5](https:/
 * Raster to Vector (Suitable Areas)
 * Select Crown Land > Clip Suitable Areas
 
+### Essays ~ 30% of your exam grade
 
-## Short Answer Questions (10 pts x6)
+* No definitive word count/limit.  Responses can be brief, but should be thorough.  Use full sentences and answer all parts of the question.
+  * Give examples!
+  * Sketches/Illustrations can be incorporated (*not required/expected*)
+  * Type them up and submit as .pdf
+    * **Make Sure it's a .pdf!**
+    * Formats like .pages - are not readable across platforms
+  * Randomly assigned from a bank!
 
-Generally, 1-3 sentences will suffice.  Try not to write much more than a paragraph.  Bullet point lists are sufficient where applicable.  Anything from lecture/lab is fair game.
+* You can expect:
+  * 1 essay on Spatial Coordinate Systems [Module 2](https://geos270.github.io/Module2/)
+  * 1 essay on Data Types and Spatial Data Models [Module 3](https://geos270.github.io/Module3/) & [Module 4](https://geos270.github.io/Module4/)
+
+
+
+### Short Answer Questions
+
+Generally, no more than a paragraph needed.  Bullet point lists are sufficient where applicable.  Anything from lecture/lab is fair game.
 
 * Explain a key concept in your own words or give examples of a specific issue.
 
-### Remaining Questions
+### Automated Questions
 
-The exact breakdown may change slightly, but you can expect:
-
-* 5pts x5 **Fill in the blanks**
-
-* 4pts x1 **Matching**
-
-* 2pts x8 **Multiple Choice**
-
-* 1pt x5 **True/False**
-
-### Extra Credit
-
-Write a positionality statement for your final project.  (Up to 10 pts)
-
-* See [Module 6](https://geos270.github.io/Module6/docs/content/Ethics.html#/26) and [June's example](https://police-involved-deaths-ca.github.io/Data/docs/About.html#positionality-statement)
-
-
-# Teaching Evaluations!
-
-I value your feedback!  Please if you haven't done so already! fill them out so I can think about how to improve my teaching going forward!
-
-* What worked for you & what didn't?
-* How was the pace & format?
-  * Anything I should spend more time on?
-  * Did you find any modules particularly difficult?
-
-* They also help my future employment prospects :)
-
-<img src='content/images/Evals.png'>
-
-## About Evaluations
-
-Teaching evaluations are completely anonymous and they not released to professors until after the final exam.  If you're curious what they look like on the professors' end, I've posted my previous evaluations to the [syllabus](https://geos270.github.io/Syllabus/#your-instructor). 
-
-You can follow [this link](https://go.blueja.io/JO0ANrkNjEyxWfjKVFKr1A) or scan the QR code below to go to the evaluations portal.
-
-<img src='content/images/QR.png'> -->
+These questions will include a mix of different question types that will be marked automatically.  I will provide you with a special answer sheet that you need to used to record and upload your answers.
