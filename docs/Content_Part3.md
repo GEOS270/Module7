@@ -2,51 +2,22 @@
 layout: default
 title: Final Exam Review
 parent: Module 7
-# has_children: True
 nav_order: 3
 ---
 
 # Final Exam Review
 
-The final exam will be asynchronous on canvas.  You will have a 48 Hour Window to Complete (0:00 April 24th to 23:59 April 25th).  
+The final exam will be asynchronous on canvas.  You will have a 48 Hour Window to Complete 
+
+* Monday April 24th (0:00) to Tuesday April 25th (23:59).  
 
 * One Attempt - five hours
     * Not intended to take five hours, I just don’t want you to feel rushed.
   * If you have an accommodation for extra time, please email me a reminder to before the exam to ensure I've set it for your exam.
 
-## Format
-
-* The exam is open book - you can reference any course material or outside sources you want
+* The exam is open book - you can reference any course material or outside sources you want.
   * Be weary of outside materials - they may not be correct ...
   * **DO NOT** copy/paste answers.  Answers must be in your own words.  Plagiarism will be taken seriously and could result in a zero.
-
-### What is Plagiarism?
-
-"Plagiarism is presenting work or ideas from another source as your own, with or without consent of the original author, by incorporating it into your work without full acknowledgement." - Oxford English Dictionary
-
-How to avoid plagiarizing on an open book exam?: **Put answers in your own words.**
-* Its perfectly okay to reference course material and other outside resources.  However, the ideas presented must reflect your own understanding of the information presented.
-
-#### ChatGPT?
-
-Its an amazingly powerful tool!  That said ... its a C student at best.  Don't copy/paste exam answers from ChatGPT - you'd be surprised how often it will generate incorrect information.  
-
-* You **can** use Chat GPT as a study tool.
-  * Unsure what the difference between the a Geographic Coordinate System and a Map Projection? 
-    - Ask Chat GPT and see what it says.
-    - Cross reference its answer with **other sources** (e.g. lecture material) to solidify your understanding **and** make sure it didn't give you any misinformation.
-
-* You **cannot** use Chat GPT to answer exam questions for you.  That is plagiarism.
-
-### Top Hat Question
-
-Which of the following are examples of plagiarism?
-
-* Typing exam questions into ChatGPT and using its response as your answer.
-* Paraphrasing a full paragraph from a research paper or other article without citation.
-* Using Chat GPT as a study tool to help prepare for an exam.
-* Synthesizing information from multiple online sources to answer an essay question.
-* Copying full sentences from lecture slides and putting them in an essay.
 
 ## What's on the Exam?
 
@@ -125,7 +96,7 @@ The processes you'll want to be familiar with were covered in [Module 5](https:/
 * Raster to Vector (Suitable Areas)
 * Select Crown Land > Clip Suitable Areas
 
-### Essays ~ 30% of your exam grade
+### Essays
 
 * No definitive word count/limit.  Responses can be brief, but should be thorough.  Use full sentences and answer all parts of the question.
   * Give examples!
@@ -139,8 +110,6 @@ The processes you'll want to be familiar with were covered in [Module 5](https:/
   * 1 essay on Spatial Coordinate Systems [Module 2](https://geos270.github.io/Module2/)
   * 1 essay on Data Types and Spatial Data Models [Module 3](https://geos270.github.io/Module3/) & [Module 4](https://geos270.github.io/Module4/)
 
-
-
 ### Short Answer Questions
 
 Generally, no more than a paragraph needed.  Bullet point lists are sufficient where applicable.  Anything from lecture/lab is fair game.
@@ -149,4 +118,38 @@ Generally, no more than a paragraph needed.  Bullet point lists are sufficient w
 
 ### Automated Questions
 
-These questions will include a mix of different question types that will be marked automatically.  I will provide you with a special answer sheet that you need to used to record and upload your answers.
+These questions will include a mix of different question types that will be marked automatically.  
+
+* I will provide you with a special answer sheet that you **need** to used to record and upload your answers.  Make sure to follow the specific instructions provided so your answers are handled correctly.
+
+
+## What is Plagiarism?
+
+"Plagiarism is presenting work or ideas from another source as your own, with or without consent of the original author, by incorporating it into your work without full acknowledgement." - Oxford English Dictionary
+
+### How to avoid plagiarizing on an open book exam?
+
+**Put answers in your own words.**
+
+* Its perfectly okay to reference course material and other outside resources.  However, the ideas presented must reflect your own understanding of the information presented.
+
+#### ChatGPT?
+
+Its an amazingly powerful tool!  That said ... its a C student at best.  Don't copy/paste exam answers from ChatGPT - you'd be surprised how often it will generate incorrect information.  
+
+* You **can** use Chat GPT as a study tool.
+  * Unsure what the difference between the a Geographic Coordinate System and a Map Projection? 
+    - Ask Chat GPT and see what it says.
+    - Cross reference its answer with **other sources** (e.g. lecture material) to solidify your understanding **and** make sure it didn't give you any misinformation.
+
+* You **cannot** use Chat GPT to answer exam questions for you.  That is plagiarism.
+
+#### Top Hat Question
+
+Which of the following are examples of plagiarism?
+
+* Typing exam questions into ChatGPT and using its response as your answer.
+* Paraphrasing a full paragraph from a research paper or other article without citation.
+* Using Chat GPT as a study tool to help prepare for an exam.
+* Synthesizing information from multiple online sources to answer an essay question.
+* Copying full sentences from lecture slides and putting them in an essay.
