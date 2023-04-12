@@ -35,7 +35,9 @@ There will be four parts to your exam.  Questions will be assigned randomly from
 
 ### Flowchart 
 
-Tests your ability to work through a problem using GIS methods.  Create a flow chart outlining a GIS analysis in response to a prompt.  I suggest you use [diagrams.net](https://app.diagrams.net/) because its easy to create clean flowcharts quickly, but you can do it however you'd like.  You might want to practice making a flowchart before exam time.
+Tests your ability to work through a problem using GIS methods.  Create a flow chart outlining a GIS analysis in response to a prompt.  I suggest you use [diagrams.net](https://app.diagrams.net/) because its easy to create clean flowcharts quickly, but this is not required - you can do it however you'd like (hand drawn, PowerPoint, etc.).
+
+* You can reference [this tutorial video](https://www.youtube.com/embed/jq5NxMpOSKI?start=135) for an overview of diagrams.net.  You might want to practice making a flowchart before exam time.
 
 The processes you'll want to be familiar with were covered in [Module 5](https://geos270.github.io/Module5/) & [Module 6](https://geos270.github.io/Module6/)
 * When exporting to submit, make sure to export/submit a .png, .jpg, or .pdf
